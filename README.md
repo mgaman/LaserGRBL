@@ -5,6 +5,11 @@ LaserGRBL is a Windows GUI for [GRBL](https://github.com/gnea/grbl/wiki). Unlike
 
 All downloads available at https://github.com/arkypita/LaserGRBL/releases
 
+## My Changes
+Make compileable via Mono/Ubuntu.
+
+Add alternatives to Laser ON/OFF in SVG/Raster import dialog for the sake of other mediums e.g. Pen Drawing
+
 ### Support and Donation
 
 Do you like LaserGRBL? Support development with your donation!
